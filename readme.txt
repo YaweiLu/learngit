@@ -3,3 +3,4 @@ git is a free software under GPL
 git has a mutable index called stage
 git tracks changes of files
 feature1
+remote changes
